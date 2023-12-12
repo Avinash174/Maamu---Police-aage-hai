@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mamu_police_aage_hai"
+        android:label="mamu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
